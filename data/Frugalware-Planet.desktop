@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Planet Frugalware
+Exec=xdg-open http://planet.frugalware.org
+Icon=frugalware-logo
+Name=Planet
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Frugalware;

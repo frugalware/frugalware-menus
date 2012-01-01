@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Frugalware Bugtracker
+Exec=xdg-open http://bugs.frugalware.org
+Icon=frugalware-logo
+Name=Bugs
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Frugalware;

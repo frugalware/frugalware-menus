@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Frugalware Forum
+Exec=xdg-open http://forums.frugalware.org
+Icon=frugalware-logo
+Name=Forum
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Frugalware;

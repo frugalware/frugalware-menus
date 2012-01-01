@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Frugalware Documentation
+Exec=xdg-open http://frugalware.org/docs
+Icon=frugalware-logo
+Name=Documentation
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Frugalware;

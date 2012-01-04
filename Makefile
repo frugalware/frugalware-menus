@@ -2,7 +2,7 @@
 # Copyright (C) 2012 Devil505
 
 NAME=frugalware-menus
-VERSION=0.5
+VERSION=0.6
 
 all:
 

@@ -1,8 +1,8 @@
 [Desktop Entry]
-Comment=Frugalware Forum
+Comment=Frugalware Forums
 Exec=xdg-open http://forums.frugalware.org
 Icon=frugalware-logo
-Name=Forum
+Name=Forums
 StartupNotify=true
 Terminal=false
 Type=Application

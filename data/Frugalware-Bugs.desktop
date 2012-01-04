@@ -1,8 +1,10 @@
 [Desktop Entry]
-Comment=Frugalware Bugtracker
+Comment=Frugalware Bugs Tracking System
+Comment[fr]=Système de suivi de bogues de Frugalware
 Exec=xdg-open http://bugs.frugalware.org
 Icon=frugalware-logo
-Name=Bugs
+Name=Bugs Tracking System
+Name[fr]=Système de suivi de bogues
 StartupNotify=true
 Terminal=false
 Type=Application

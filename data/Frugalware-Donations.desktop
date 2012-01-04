@@ -1,8 +1,10 @@
 [Desktop Entry]
 Comment=Frugalware Donations
+Comment[fr]=Dons pour Frugalware
 Exec=xdg-open http://www.frugalware.org/donations
 Icon=frugalware-logo
 Name=Donate
+Name[fr]=Faire un don
 StartupNotify=true
 Terminal=false
 Type=Application

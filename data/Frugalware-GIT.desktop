@@ -1,8 +1,8 @@
 [Desktop Entry]
-Comment=Frugalware GIT
+Comment=Frugalware GITweb
 Exec=xdg-open http://git.frugalware.org/
 Icon=frugalware-logo
-Name=GIT
+Name=GITweb
 StartupNotify=true
 Terminal=false
 Type=Application

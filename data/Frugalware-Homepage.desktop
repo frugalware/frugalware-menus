@@ -1,8 +1,10 @@
 [Desktop Entry]
 Comment=Frugalware homepage
+Comment[fr]=Site Officiel de Frugalware
 Exec=xdg-open http://www.frugalware.org
 Icon=frugalware-logo
 Name=Homepage
+Name[fr]=Site Officiel
 StartupNotify=true
 Terminal=false
 Type=Application

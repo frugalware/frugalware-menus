@@ -1,8 +1,10 @@
 [Desktop Entry]
 Comment=Frugalware development team
+Comment[fr]=Equipe de développement de Frugalware
 Exec=xdg-open http://www.frugalware.org/authors
 Icon=frugalware-logo
 Name=Developers
+Name[fr]=Développeurs
 StartupNotify=true
 Terminal=false
 Type=Application
